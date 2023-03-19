@@ -3,13 +3,13 @@
 
 @import "blocks/main";
 
-// :root {
-
-// }
+:root {
+  --index: calc(1vw + 1vh);
+  --text: #e7e7e0;
+}
 
 body {
   background-color: #010101;
-  color: #fff;
   font-family: raleway_f, sans-serif;
   line-height: 1.55;
 }
